@@ -12,4 +12,10 @@ K
 F https://ms.componentsearchengine.com/Datasheets/2/IRLB8748PBF.pdf
 $ENDCMP
 #
+$CMP LTC4444IMS8E-5#PBF
+D LTC4444 - High Voltage Synchronous N-Channel MOSFET Driver
+K
+F http://cds.linear.com/docs/en/datasheet/4444fb.pdf
+$ENDCMP
+#
 #End Doc Library
