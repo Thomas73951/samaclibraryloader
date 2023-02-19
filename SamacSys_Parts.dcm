@@ -24,4 +24,10 @@ K
 F https://katalog.we-online.de/pbs/datasheet/74437529203470.pdf
 $ENDCMP
 #
+$CMP FG18X5R1H105KRT06
+D MLCC with Dipped Radial Lead, Capacitance=1?F, LxWxT:4x5.5x2.5mm, Lead pitch:2.5mm
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf
+$ENDCMP
+#
 #End Doc Library
