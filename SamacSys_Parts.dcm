@@ -30,4 +30,10 @@ K
 F https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf
 $ENDCMP
 #
+$CMP M20-7831046
+D HARWIN 2.54mm Pitch 20 Way 2 Row Straight PCB Socket, Through Hole, Solder Termination
+K
+F https://cdn.harwin.com/pdfs/M20-783.pdf
+$ENDCMP
+#
 #End Doc Library
