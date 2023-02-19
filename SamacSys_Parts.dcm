@@ -18,4 +18,10 @@ K
 F http://cds.linear.com/docs/en/datasheet/4444fb.pdf
 $ENDCMP
 #
+$CMP 74437529203470
+D WURTH ELEKTRONIK - 74437529203470 - INDUCTOR, SHIELDED, 47UH, 18.7A, 20%
+K
+F https://katalog.we-online.de/pbs/datasheet/74437529203470.pdf
+$ENDCMP
+#
 #End Doc Library
