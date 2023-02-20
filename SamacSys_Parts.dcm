@@ -48,4 +48,10 @@ K
 F https://componentsearchengine.com/Datasheets/2/2213S-20G.pdf
 $ENDCMP
 #
+$CMP CTB5202_2
+D RS PRO 5mm Pitch Straight, PCB Terminal Block, PCB Mount, 2 Way
+K
+F
+$ENDCMP
+#
 #End Doc Library
