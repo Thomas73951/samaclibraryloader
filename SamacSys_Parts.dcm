@@ -36,4 +36,10 @@ K
 F https://cdn.harwin.com/pdfs/M20-783.pdf
 $ENDCMP
 #
+$CMP MCP1640BT-I_CHY
+D Microchip MCP1640BT-I/CHY, Boost Converter, Step Up 0.35A Adjustable, 2  5.5 V, 575 kHz, 6-pin SOT-23
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20002234D.pdf
+$ENDCMP
+#
 #End Doc Library
