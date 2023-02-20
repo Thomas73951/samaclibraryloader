@@ -42,4 +42,10 @@ K
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20002234D.pdf
 $ENDCMP
 #
+$CMP 2213S-20G
+D MULTICOMP - 2213S-20G - HEADER, THT, VERTICAL, 2.54MM, 20WAY
+K
+F https://componentsearchengine.com/Datasheets/2/2213S-20G.pdf
+$ENDCMP
+#
 #End Doc Library
