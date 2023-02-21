@@ -42,7 +42,7 @@
   (pad 18 thru_hole circle (at 20.32 -2.54) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
   (pad 19 thru_hole circle (at 22.86 0) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
   (pad 20 thru_hole circle (at 22.86 -2.54) (size 1.65 1.65) (drill 1.1) (layers *.Cu *.Mask))
-  (model 2213S-20G.stp
+  (model "D:\\#My stuff\\Documents\\samaclibraryloader\\SamacSys_Parts.3dshapes\\2213S-20G.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

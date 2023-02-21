@@ -51,7 +51,19 @@ $ENDCMP
 $CMP CTB5202_2
 D RS PRO 5mm Pitch Straight, PCB Terminal Block, PCB Mount, 2 Way
 K
-F
+F 
+$ENDCMP
+#
+$CMP HTR20L120CT
+D SCHOTTKY RECT, DUAL, 120V, 20A, TO-220AB
+K
+F https://www.farnell.com/datasheets/2864112.pdf
+$ENDCMP
+#
+$CMP MCKSK050M330D11S
+D MULTICOMP PRO - MCKSK050M330D11S - Electrolytic Capacitor, 33 F, 50 V, SK Series, +/- 20%, Radial Leaded, 2000 hours @ 105C
+K
+F https://www.farnell.com/datasheets/3627975.pdf
 $ENDCMP
 #
 #End Doc Library

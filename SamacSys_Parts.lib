@@ -201,8 +201,6 @@ F8 "579-MCP1640BT-I/CHY" 950 -500 50 H I L CNN "Mouser Part Number"
 F9 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP1640BT-I-CHY?qs=Z2DEGP6RHSlfGs0rf76ksQ%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
 F10 "MCP1640BT-I/CHY" 950 -700 50 H I L CNN "Arrow Part Number"
 F11 "https://www.arrow.com/en/products/mcp1640bt-ichy/microchip-technology?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
-F12 "" 950 -900 50 H I L CNN "Mouser Testing Part Number"
-F13 "" 950 -1000 50 H I L CNN "Mouser Testing Price/Stock"
 DRAW
 X SW 1 0 0 200 R 50 50 0 0 P
 X GND 2 0 -100 200 R 50 50 0 0 P
@@ -229,8 +227,6 @@ F8 "" 750 -500 50 H I L CNN "Mouser Part Number"
 F9 "" 750 -600 50 H I L CNN "Mouser Price/Stock"
 F10 "" 750 -700 50 H I L CNN "Arrow Part Number"
 F11 "" 750 -800 50 H I L CNN "Arrow Price/Stock"
-F12 "" 750 -900 50 H I L CNN "Mouser Testing Part Number"
-F13 "" 750 -1000 50 H I L CNN "Mouser Testing Price/Stock"
 DRAW
 X 1 1 0 0 200 R 50 50 0 0 P
 X 3 3 0 -100 200 R 50 50 0 0 P
@@ -271,12 +267,60 @@ F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
 F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
 F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
 F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
-F12 "" 650 -900 50 H I L CNN "Mouser Testing Part Number"
-F13 "" 650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
 DRAW
 X 1 1 0 0 200 R 50 50 0 0 P
 X 2 2 0 -100 200 R 50 50 0 0 P
 P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model HTR20L120CT
+#/1798262/1074895/2.49/3/3/Bridge Rectifier
+DEF HTR20L120CT BR 0 30 Y Y 1 F N
+F0 "BR" 850 300 50 H V L CNN
+F1 "HTR20L120CT" 850 200 50 H V L CNN
+F2 "HTR20L120CT" 850 100 50 H I L CNN
+F3 "https://www.farnell.com/datasheets/2864112.pdf" 850 0 50 H I L CNN
+F4 "SCHOTTKY RECT, DUAL, 120V, 20A, TO-220AB" 850 -100 50 H I L CNN "Description"
+F5 "20" 850 -200 50 H I L CNN "Height"
+F6 "MULTICOMP" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "HTR20L120CT" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X A_1 1 0 0 200 R 50 50 0 0 P
+X A_2 2 0 -200 200 R 50 50 0 0 P
+X COM_K 3 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MCKSK050M330D11S
+#/9556067/1074895/2.49/2/3/Capacitor Polarised
+DEF MCKSK050M330D11S C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "MCKSK050M330D11S" 350 150 50 H V L CNN
+F2 "CAPPRD200W55D500H1200" 350 50 50 H I L CNN
+F3 "https://www.farnell.com/datasheets/3627975.pdf" 350 -50 50 H I L CNN
+F4 "MULTICOMP PRO - MCKSK050M330D11S - Electrolytic Capacitor, 33 F, 50 V, SK Series, +/- 20%, Radial Leaded, 2000 hours @ 105C" 350 -150 50 H I L CNN "Description"
+F5 "12" 350 -250 50 H I L CNN "Height"
+F6 "MULTICOMP" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "MCKSK050M330D11S" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
 ENDDRAW
 ENDDEF
 #
