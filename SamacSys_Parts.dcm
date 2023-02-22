@@ -66,4 +66,10 @@ K
 F https://www.farnell.com/datasheets/3627975.pdf
 $ENDCMP
 #
+$CMP KRM31KR72A105KH01L
+D Capacitor KRM31 L=3.5mm W=1.7mm T=2.7mm
+K
+F https://psearch.en.murata.com/capacitor/product/KRM31KR72A105KH01%23.html
+$ENDCMP
+#
 #End Doc Library
