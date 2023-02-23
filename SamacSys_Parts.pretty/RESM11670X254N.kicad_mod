@@ -23,7 +23,7 @@
   (fp_line (start -5.78 3.49) (end 5.78 3.49) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -4.65 0 0) (size 4.05 5.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.65 0 0) (size 4.05 5.5) (layers F.Cu F.Paste F.Mask))
-  (model WSR2R0200FEA.stp
+  (model "D:\\#My stuff\\Documents\\samaclibraryloader\\SamacSys_Parts.3dshapes\\WSR2R0200FEA.stp"
     (at (xyz 0 -0.13740157517861 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
