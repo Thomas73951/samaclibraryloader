@@ -78,4 +78,10 @@ K
 F http://www.vishay.com/docs/30101/wsr.pdf
 $ENDCMP
 #
+$CMP STPST3H100AF
+D 100 V, 3 A Power Schottky Trench rectifier
+K
+F https://www.st.com/resource/en/datasheet/stpst3h100.pdf
+$ENDCMP
+#
 #End Doc Library
