@@ -72,4 +72,10 @@ K
 F https://psearch.en.murata.com/capacitor/product/KRM31KR72A105KH01%23.html
 $ENDCMP
 #
+$CMP WSR2R0200FEA
+D Current Sense Resistors - SMD 2watts .02ohms 1%
+K
+F http://www.vishay.com/docs/30101/wsr.pdf
+$ENDCMP
+#
 #End Doc Library
