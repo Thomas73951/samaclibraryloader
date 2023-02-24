@@ -84,4 +84,10 @@ K
 F https://www.st.com/resource/en/datasheet/stpst3h100.pdf
 $ENDCMP
 #
+$CMP 24.243.4
+D BANANA JACK, 4MM, 24A, TH, GREEN; Gender:Socket; Connector Mounting:PCB Mount; Current Rating:24A; Voltage Rating:60VDC; Contact Plating:Silver Plated Contacts; Connector Colour:Green; Contact Material:Brass RoHS Compliant: Yes
+K
+F https://componentsearchengine.com/Datasheets/2/24.243.4.pdf
+$ENDCMP
+#
 #End Doc Library
