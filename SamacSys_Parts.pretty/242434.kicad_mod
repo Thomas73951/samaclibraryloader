@@ -30,7 +30,7 @@
   (fp_arc (start -5.95 -0) (end -6.000 -0) (angle -180) (layer F.SilkS) (width 0.2))
   (pad 1 thru_hole circle (at 0.000 -0) (size 2.955 2.955) (drill 1.97) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 15.500 -0) (size 2.955 2.955) (drill 1.97) (layers *.Cu *.Mask))
-  (model 24.243.4.stp
+  (model "D:\\#My stuff\\Documents\\samaclibraryloader\\SamacSys_Parts.3dshapes\\24.243.4.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

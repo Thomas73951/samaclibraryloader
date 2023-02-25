@@ -90,4 +90,16 @@ K
 F https://componentsearchengine.com/Datasheets/2/24.243.4.pdf
 $ENDCMP
 #
+$CMP MP008280
+D LED, GREEN, 70MCD, 575NM, 1206 ROHS COMPLIANT: YES
+K
+F https://www.farnell.com/datasheets/3497877.pdf
+$ENDCMP
+#
+$CMP EPL2014-472MLB
+D COILCRAFT - EPL2014-472MLB - INDUCTOR, 4.7UH, 1.06A, 20%, PWR, 46MHZ
+K
+F https://www.coilcraft.com/pdfs/epl2014.pdf
+$ENDCMP
+#
 #End Doc Library
